@@ -17,6 +17,7 @@
         <xsd:element name="prerequisites" type="prerequisitesType"/>
         <xsd:element name="maxtimeallowed" type="maxtimeallowedType"/>
         <xsd:element name="timelimitaction" type="timelimitactionType"/>
+        <xsd:element name="datafromlms" type="datafromlmsType"/>
         <xsd:element name="masteryscore" type="masteryscoreType"/>
 
 
